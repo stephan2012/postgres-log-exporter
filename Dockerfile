@@ -8,8 +8,6 @@ ARG https_proxy
 ARG no_proxy
 ARG apt_proxy
 
-ARG UBUNTU_MIRROR_URL
-
 USER root
 
 ENV LANG=C.UTF-8
